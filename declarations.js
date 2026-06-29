@@ -8,8 +8,7 @@ const obj = {
 }
 
 const nested = {
-    arr = [4 , undefined, '2'],
-    arr ,
+    arr = [4 , undefined, "2"],
     obj
 };
 Object.freeze(arr);
