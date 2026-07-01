@@ -17,7 +17,7 @@ function dogYears(planet , second ){
     return Number(cal2.toFixed(2))
 }
 
-
+a
 
 console.log(dogYears("earth", 1000000000)); // Should output 221.82
 console.log(dogYears("mercury", 1000000000)); // Should output 921.3
