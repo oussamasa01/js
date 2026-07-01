@@ -17,7 +17,6 @@ is.falsy = (v) => !v
 
 
 
-
 // Test is.num
 console.log(is.num(5)); // true
 console.log(is.num(-5.5)); // true
